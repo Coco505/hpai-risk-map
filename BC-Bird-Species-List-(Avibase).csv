@@ -15,12 +15,12 @@ Ross's Goose,Anser rossii,
 Pink-footed Goose,Anser brachyrhynchus,Uncertain origin
 Bean Goose,Anser fabalis,Rare/Accidental
 Greater White-fronted Goose,Anser albifrons,
-Lesser White-fronted Goose,Anser erythropus,Uncertain originÿVulnerable
+Lesser White-fronted Goose,Anser erythropus,Uncertain originÃ¿Vulnerable
 Long-tailed Duck,Clangula hyemalis,Vulnerable
-Spectacled Eider,Somateria fischeri,Rare/AccidentalÿNear-threatened
+Spectacled Eider,Somateria fischeri,Rare/AccidentalÃ¿Near-threatened
 King Eider,Somateria spectabilis,Rare/Accidental
-Common Eider,Somateria mollissima,Rare/AccidentalÿNear-threatened
-Steller's Eider,Polysticta stelleri,Rare/AccidentalÿVulnerable
+Common Eider,Somateria mollissima,Rare/AccidentalÃ¿Near-threatened
+Steller's Eider,Polysticta stelleri,Rare/AccidentalÃ¿Vulnerable
 Surf Scoter,Melanitta perspicillata,
 Velvet Scoter,Melanitta fusca,
 Black Scoter,Melanitta americana,Near-threatened
@@ -32,7 +32,7 @@ Hooded Merganser,Lophodytes cucullatus,
 Goosander,Mergus merganser,
 Red-breasted Merganser,Mergus serrator,
 Harlequin Duck,Histrionicus histrionicus,
-Common Pochard,Aythya ferina,Rare/AccidentalÿVulnerable
+Common Pochard,Aythya ferina,Rare/AccidentalÃ¿Vulnerable
 Canvasback,Aythya valisineria,
 Redhead,Aythya americana,
 Ring-necked Duck,Aythya collaris,
@@ -71,7 +71,7 @@ White-tailed Ptarmigan,Lagopus leucura,
 Dusky Grouse,Dendragapus obscurus,
 Sooty Grouse,Dendragapus fuliginosus,
 Spruce Grouse,Falcipennis canadensis,
-Greater Sage Grouse,Centrocercus urophasianus,ExtirpatedÿNear-threatened
+Greater Sage Grouse,Centrocercus urophasianus,ExtirpatedÃ¿Near-threatened
 Sharp-tailed Grouse,Tympanuchus phasianellus,
 Grey Partridge,Perdix perdix,Introduced species
 ,,
@@ -87,7 +87,7 @@ COLUMBIFORMES: Columbidae,,
 Rock Dove,Columba livia,Introduced species
 Oriental Turtle Dove,Streptopelia orientalis,Rare/Accidental
 Eurasian Collared Dove,Streptopelia decaocto,Introduced species
-Passenger Pigeon,Ectopistes migratorius,Rare/AccidentalÿExtinct
+Passenger Pigeon,Ectopistes migratorius,Rare/AccidentalÃ¿Extinct
 Band-tailed Pigeon,Patagioenas fasciata,
 White-winged Dove,Zenaida asiatica,Rare/Accidental
 Mourning Dove,Zenaida macroura,
@@ -99,12 +99,12 @@ CAPRIMULGIFORMES: Caprimulgidae,,
 Common Nighthawk,Chordeiles minor,
 Lesser Nighthawk,Chordeiles acutipennis,Rare/Accidental
 Common Poorwill,Phalaenoptilus nuttallii,
-Eastern Whip-poor-will,Antrostomus vociferus,Rare/AccidentalÿNear-threatened
+Eastern Whip-poor-will,Antrostomus vociferus,Rare/AccidentalÃ¿Near-threatened
 ,,
 CAPRIMULGIFORMES: Apodidae,,
 Black Swift,Cypseloides niger,Vulnerable
 Vaux's Swift,Chaetura vauxi,
-Chimney Swift,Chaetura pelagica,Rare/AccidentalÿVulnerable
+Chimney Swift,Chaetura pelagica,Rare/AccidentalÃ¿Vulnerable
 White-throated Swift,Aeronautes saxatalis,
 House Swift,Apus nipalensis,Uncertain origin
 ,,
@@ -135,7 +135,7 @@ American Coot,Fulica americana,
 GRUIFORMES: Gruidae,,
 Sandhill Crane,Antigone canadensis,
 Demoiselle Crane,Grus virgo,Uncertain origin
-Whooping Crane,Grus americana,Rare/AccidentalÿEndangered
+Whooping Crane,Grus americana,Rare/AccidentalÃ¿Endangered
 Common Crane,Grus grus,Rare/Accidental
 ,,
 GAVIIFORMES: Gaviidae,,
@@ -143,7 +143,7 @@ Red-throated Diver,Gavia stellata,
 Black-throated Diver,Gavia arctica,Rare/Accidental
 Pacific Loon,Gavia pacifica,
 Great Northern Diver,Gavia immer,
-White-billed Diver,Gavia adamsii,Rare/AccidentalÿNear-threatened
+White-billed Diver,Gavia adamsii,Rare/AccidentalÃ¿Near-threatened
 ,,
 PROCELLARIIFORMES: Diomedeidae,,
 Laysan Albatross,Phoebastria immutabilis,Near-threatened
@@ -156,17 +156,17 @@ Fork-tailed Storm-petrel,Hydrobates furcatus,
 ,,
 PROCELLARIIFORMES: Procellariidae,,
 Northern Fulmar,Fulmarus glacialis,Rare/Accidental
-Cook's Petrel,Pterodroma cookii,Rare/AccidentalÿVulnerable
+Cook's Petrel,Pterodroma cookii,Rare/AccidentalÃ¿Vulnerable
 Murphy's Petrel,Pterodroma ultima,Rare/Accidental
 Mottled Petrel,Pterodroma inexpectata,Near-threatened
-Hawaiian Petrel,Pterodroma sandwichensis,Rare/AccidentalÿEndangered
+Hawaiian Petrel,Pterodroma sandwichensis,Rare/AccidentalÃ¿Endangered
 Buller's Shearwater,Ardenna bulleri,Vulnerable
 Short-tailed Shearwater,Ardenna tenuirostris,
 Sooty Shearwater,Ardenna grisea,Near-threatened
 Great Shearwater,Ardenna gravis,Rare/Accidental
 Flesh-footed Shearwater,Ardenna carneipes,Near-threatened
 Pink-footed Shearwater,Ardenna creatopus,Vulnerable
-Black-vented Shearwater,Puffinus opisthomelas,Rare/AccidentalÿNear-threatened
+Black-vented Shearwater,Puffinus opisthomelas,Rare/AccidentalÃ¿Near-threatened
 Manx Shearwater,Puffinus puffinus,Rare/Accidental
 ,,
 PELECANIFORMES: Ciconiidae,,
@@ -222,33 +222,33 @@ Eurasian Dotterel,Eudromias morinellus,Rare/Accidental
 Common Ringed Plover,Charadrius hiaticula,Rare/Accidental
 Semipalmated Plover,Charadrius semipalmatus,
 Killdeer,Charadrius vociferus,Near-threatened
-Piping Plover,Charadrius melodus,Rare/AccidentalÿNear-threatened
-Snowy Plover,Charadrius nivosus,Rare/AccidentalÿNear-threatened
+Piping Plover,Charadrius melodus,Rare/AccidentalÃ¿Near-threatened
+Snowy Plover,Charadrius nivosus,Rare/AccidentalÃ¿Near-threatened
 Lesser Sand Plover,Charadrius mongolus,Rare/Accidental
-Mountain Plover,Charadrius montanus,Rare/AccidentalÿNear-threatened
+Mountain Plover,Charadrius montanus,Rare/AccidentalÃ¿Near-threatened
 ,,
 CHARADRIIFORMES: Scolopacidae,,
 Upland Sandpiper,Bartramia longicauda,
-Bristle-thighed Curlew,Numenius tahitiensis,Rare/AccidentalÿNear-threatened
+Bristle-thighed Curlew,Numenius tahitiensis,Rare/AccidentalÃ¿Near-threatened
 Whimbrel,Numenius phaeopus,Rare/Accidental
 Long-billed Curlew,Numenius americanus,
-Far Eastern Curlew,Numenius madagascariensis,Rare/AccidentalÿEndangered
-Bar-tailed Godwit,Limosa lapponica,Rare/AccidentalÿNear-threatened
+Far Eastern Curlew,Numenius madagascariensis,Rare/AccidentalÃ¿Endangered
+Bar-tailed Godwit,Limosa lapponica,Rare/AccidentalÃ¿Near-threatened
 Marbled Godwit,Limosa fedoa,Vulnerable
 Hudsonian Godwit,Limosa haemastica,Vulnerable
-Black-tailed Godwit,Limosa limosa,Rare/AccidentalÿNear-threatened
+Black-tailed Godwit,Limosa limosa,Rare/AccidentalÃ¿Near-threatened
 Ruddy Turnstone,Arenaria interpres,Near-threatened
 Black Turnstone,Arenaria melanocephala,
-Great Knot,Calidris tenuirostris,Rare/AccidentalÿEndangered
+Great Knot,Calidris tenuirostris,Rare/AccidentalÃ¿Endangered
 Red Knot,Calidris canutus,Near-threatened
 Surfbird,Calidris virgata,
 Ruff,Calidris pugnax,Rare/Accidental
 Sharp-tailed Sandpiper,Calidris acuminata,Vulnerable
 Stilt Sandpiper,Calidris himantopus,Near-threatened
-Curlew Sandpiper,Calidris ferruginea,Rare/AccidentalÿVulnerable
+Curlew Sandpiper,Calidris ferruginea,Rare/AccidentalÃ¿Vulnerable
 Temminck's Stint,Calidris temminckii,Rare/Accidental
-Spoon-billed Sandpiper,Calidris pygmaea,Rare/AccidentalÿCritically endangered
-Red-necked Stint,Calidris ruficollis,Rare/AccidentalÿNear-threatened
+Spoon-billed Sandpiper,Calidris pygmaea,Rare/AccidentalÃ¿Critically endangered
+Red-necked Stint,Calidris ruficollis,Rare/AccidentalÃ¿Near-threatened
 Sanderling,Calidris alba,
 Dunlin,Calidris alpina,Near-threatened
 Rock Sandpiper,Calidris ptilocnemis,
@@ -256,7 +256,7 @@ Purple Sandpiper,Calidris maritima,Rare/Accidental
 Baird's Sandpiper,Calidris bairdii,
 Little Stint,Calidris minuta,Rare/Accidental
 Least Sandpiper,Calidris minutilla,Near-threatened
-White-rumped Sandpiper,Calidris fuscicollis,Rare/AccidentalÿVulnerable
+White-rumped Sandpiper,Calidris fuscicollis,Rare/AccidentalÃ¿Vulnerable
 Buff-breasted Sandpiper,Calidris subruficollis,Vulnerable
 Pectoral Sandpiper,Calidris melanotos,
 Semipalmated Sandpiper,Calidris pusilla,Near-threatened
@@ -290,11 +290,11 @@ Parakeet Auklet,Aethia psittacula,Rare/Accidental
 Least Auklet,Aethia pusilla,Rare/Accidental
 Crested Auklet,Aethia cristatella,Rare/Accidental
 Marbled Murrelet,Brachyramphus marmoratus,Endangered
-Kittlitz's Murrelet,Brachyramphus brevirostris,Rare/AccidentalÿNear-threatened
+Kittlitz's Murrelet,Brachyramphus brevirostris,Rare/AccidentalÃ¿Near-threatened
 Pigeon Guillemot,Cepphus columba,
 Ancient Murrelet,Synthliboramphus antiquus,
-Scripps's Murrelet,Synthliboramphus scrippsi,Rare/AccidentalÿVulnerable
-Guadalupe Murrelet,Synthliboramphus hypoleucus,Rare/AccidentalÿEndangered
+Scripps's Murrelet,Synthliboramphus scrippsi,Rare/AccidentalÃ¿Vulnerable
+Guadalupe Murrelet,Synthliboramphus hypoleucus,Rare/AccidentalÃ¿Endangered
 Little Auk,Alle alle,Rare/Accidental
 Brunnich's Guillemot,Uria lomvia,Rare/Accidental
 Common Guillemot,Uria aalge,
@@ -307,8 +307,8 @@ South Polar Skua,Stercorarius maccormicki,
 ,,
 CHARADRIIFORMES: Laridae,,
 Black-legged Kittiwake,Rissa tridactyla,Vulnerable
-Red-legged Kittiwake,Rissa brevirostris,Rare/AccidentalÿVulnerable
-Ivory Gull,Pagophila eburnea,Rare/AccidentalÿNear-threatened
+Red-legged Kittiwake,Rissa brevirostris,Rare/AccidentalÃ¿Vulnerable
+Ivory Gull,Pagophila eburnea,Rare/AccidentalÃ¿Near-threatened
 Sabine's Gull,Xema sabini,
 Bonaparte's Gull,Chroicocephalus philadelphia,
 Black-headed Gull,Chroicocephalus ridibundus,Rare/Accidental
@@ -330,19 +330,19 @@ Slaty-backed Gull,Larus schistisagus,Rare/Accidental
 Glaucous-winged Gull,Larus glaucescens,
 Glaucous Gull,Larus hyperboreus,
 Great Black-backed Gull,Larus marinus,Rare/Accidental
-Aleutian Tern,Onychoprion aleuticus,Rare/AccidentalÿVulnerable
+Aleutian Tern,Onychoprion aleuticus,Rare/AccidentalÃ¿Vulnerable
 Least Tern,Sternula antillarum,Rare/Accidental
 Caspian Tern,Hydroprogne caspia,
 Black Tern,Chlidonias niger,
 Common Tern,Sterna hirundo,
 Arctic Tern,Sterna paradisaea,
 Forster's Tern,Sterna forsteri,
-Elegant Tern,Thalasseus elegans,Rare/AccidentalÿNear-threatened
+Elegant Tern,Thalasseus elegans,Rare/AccidentalÃ¿Near-threatened
 ,,
 ACCIPITRIFORMES: Cathartidae,,
 Turkey Vulture,Cathartes aura,
 Black Vulture,Coragyps atratus,Rare/Accidental
-California Condor,Gymnogyps californianus,ExtirpatedÿCritically endangered
+California Condor,Gymnogyps californianus,ExtirpatedÃ¿Critically endangered
 ,,
 ACCIPITRIFORMES: Pandionidae,,
 Osprey,Pandion haliaetus,
@@ -376,7 +376,7 @@ Northern Long-eared Owl,Asio otus,
 Short-eared Owl,Asio flammeus,
 Flammulated Owl,Psiloscops flammeolus,
 Western Screech Owl,Megascops kennicottii,
-Spotted Owl,Strix occidentalis,Rare/AccidentalÿNear-threatened
+Spotted Owl,Strix occidentalis,Rare/AccidentalÃ¿Near-threatened
 Barred Owl,Strix varia,
 Great Grey Owl,Strix nebulosa,
 Snowy Owl,Bubo scandiacus,Vulnerable
@@ -441,7 +441,7 @@ Eastern Wood Pewee,Contopus virens,Rare/Accidental
 PASSERIFORMES: Vireonidae,,
 White-eyed Vireo,Vireo griseus,Rare/Accidental
 Bell's Vireo,Vireo bellii,Rare/Accidental
-Black-capped Vireo,Vireo atricapilla,Rare/AccidentalÿNear-threatened
+Black-capped Vireo,Vireo atricapilla,Rare/AccidentalÃ¿Near-threatened
 Cassin's Vireo,Vireo cassinii,
 Blue-headed Vireo,Vireo solitarius,
 Hutton's Vireo,Vireo huttoni,
@@ -453,7 +453,7 @@ Yellow-green Vireo,Vireo flavoviridis,Rare/Accidental
 PASSERIFORMES: Laniidae,,
 Brown Shrike,Lanius cristatus,Rare/Accidental
 Red-backed Shrike,Lanius collurio,Rare/Accidental
-Loggerhead Shrike,Lanius ludovicianus,Rare/AccidentalÿNear-threatened
+Loggerhead Shrike,Lanius ludovicianus,Rare/AccidentalÃ¿Near-threatened
 Northern Shrike,Lanius borealis,
 ,,
 PASSERIFORMES: Corvidae,,
@@ -463,7 +463,7 @@ Clark's Nutcracker,Nucifraga columbiana,
 Common Raven,Corvus corax,
 American Crow,Corvus brachyrhynchos,
 Northwestern Crow,Corvus caurinus,
-Pinyon Jay,Gymnorhinus cyanocephalus,Rare/AccidentalÿVulnerable
+Pinyon Jay,Gymnorhinus cyanocephalus,Rare/AccidentalÃ¿Vulnerable
 Californian Scrub Jay,Aphelocoma californica,Rare/Accidental
 Blue Jay,Cyanocitta cristata,
 Steller's Jay,Cyanocitta stelleri,
@@ -502,7 +502,7 @@ Lesser Goldfinch,Spinus psaltria,Rare/Accidental
 ,,
 PASSERIFORMES: Calcariidae,,
 Lapland Longspur,Calcarius lapponicus,
-Chestnut-collared Longspur,Calcarius ornatus,Rare/AccidentalÿVulnerable
+Chestnut-collared Longspur,Calcarius ornatus,Rare/AccidentalÃ¿Vulnerable
 Smith's Longspur,Calcarius pictus,
 McCown's Longspur,Rhynchophanes mccownii,Rare/Accidental
 Snow Bunting,Plectrophenax nivalis,
@@ -511,7 +511,7 @@ McKay's Bunting,Plectrophenax hyperboreus,Rare/Accidental
 PASSERIFORMES: Emberizidae,,
 Pine Bunting,Emberiza leucocephalos,Rare/Accidental
 Pallas's Reed Bunting,Schoeniclus pallasi,Rare/Accidental
-Rustic Bunting,Schoeniclus rusticus,Rare/AccidentalÿVulnerable
+Rustic Bunting,Schoeniclus rusticus,Rare/AccidentalÃ¿Vulnerable
 Little Bunting,Schoeniclus pusillus,Rare/Accidental
 ,,
 PASSERIFORMES: Passerellidae,,
@@ -546,7 +546,7 @@ Swamp Sparrow,Melospiza georgiana,
 PASSERIFORMES: Parulidae,,
 Ovenbird,Seiurus aurocapilla,
 Northern Waterthrush,Parkesia noveboracensis,
-Golden-winged Warbler,Vermivora chrysoptera,Rare/AccidentalÿNear-threatened
+Golden-winged Warbler,Vermivora chrysoptera,Rare/AccidentalÃ¿Near-threatened
 Blue-winged Warbler,Vermivora cyanoptera,Rare/Accidental
 Black-and-white Warbler,Mniotilta varia,
 Prothonotary Warbler,Protonotaria citrea,Rare/Accidental
@@ -699,7 +699,7 @@ Swainson's Thrush,Catharus ustulatus,
 Veery,Catharus fuscescens,
 Gray-cheeked Thrush,Catharus minimus,
 Hermit Thrush,Catharus guttatus,
-Redwing,Turdus iliacus,Rare/AccidentalÿNear-threatened
+Redwing,Turdus iliacus,Rare/AccidentalÃ¿Near-threatened
 American Robin,Turdus migratorius,
 Fieldfare,Turdus pilaris,Rare/Accidental
 Dusky Thrush,Turdus eunomus,Rare/Accidental
