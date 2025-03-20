@@ -11,12 +11,12 @@ This project aims to generate risk maps that combine bird species abundance data
 ├── .gitignore
 ├── README.md
 ├── data <- Contains the raw data files used in the project
-│   ├── BC-Bird-Species-List-(Avibase).csv <- A list of bird species in BC extracted from Avibase
-│   ├── EMPRESi-BC-allHPAI-2022-24.csv <- A CSV of EMPRESi HPAI case data for BC
-├── scripts <- Contains the R scripts for processing the data and generating the risk map
-│   ├── BC-common-species-filter.R <- Script for filtering common, non-introduced bird species in BC
-│   ├── eBird-data-download.R <- Script for downloading eBird data on bird species abundance
-│   ├── risk-map.R <- Main script for processing data, calculating risk, and generating maps
+│   ├── BC-Bird-Species-List-(Avibase).csv     <- A list of bird species in BC extracted from Avibase
+│   ├── EMPRESi-BC-allHPAI-2022-24.csv         <- A CSV of EMPRESi HPAI case data for BC
+├── scripts                                    <- Contains the R scripts for processing the data and generating the risk map
+│   ├── BC-common-species-filter.R             <- Script for filtering common, non-introduced bird species in BC
+│   ├── eBird-data-download.R                  <- Script for downloading eBird data on bird species abundance
+│   ├── risk-map.R                             <- Main script for processing data, calculating risk, and generating maps
 ```
 ## Quick Start
 ### Clone the repository to your local machine
