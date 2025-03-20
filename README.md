@@ -29,10 +29,11 @@ cd hpairiskmap
 install.packages(c("qgisprocess", "terra", "sf", "bcmaps", 
                    "viridis", "tmap", "dplyr", "ebirdst"))
 ```
-### Step 1: Download eBird bird abundance data (run once)
-```
-source("scripts/eBird-data-download.R")
-```
+### Step 1: Run scripts/eBird-data-download.R
+- Aim: Download eBird abundance data for common BC bird species
+- Input: data/BC-Bird-Species-List-(Avibase).csv
+- Dependencies: scripts/BC-common-species-filter.R
+- Output: Weekly median abundance rasters at 3km resolution for common BC bird species (saved in AppData\\Roaming/R/data/R/ebirdst)
 ### Step 2: Generate and visualize the risk map
 ```
 source("scripts/risk-map.R")
