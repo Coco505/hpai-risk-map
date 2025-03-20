@@ -13,7 +13,7 @@
 library(ebirdst)
 library(dplyr)
 
-BC_species <- read.csv("BC-Bird-Species-List-(Avibase).csv")
+BC_species <- read.csv("../data/BC-Bird-Species-List-(Avibase).csv")
 
 #filter only the common and non-introduced species 
 BC_species_common <- filter(BC_species, Species != "" & Rarity == "")

@@ -74,7 +74,7 @@ sum_norm_ebird <- sum(normalized_stack, na.rm = TRUE)
 ##Generate Kernel Density Estimate (KDE) from EMPRESi cases
 
 #Load EMPRESi case data from CSV, skipping the first 14 rows (metadata) and setting the header.
-EMPRESi_cases <- read.csv("EMPRESi-BC-allHPAI-2022-24.csv", skip = 14, header = T)
+EMPRESi_cases <- read.csv("../data/EMPRESi-BC-allHPAI-2022-24.csv", skip = 14, header = T)
 
 #Convert the case data to an SF (Simple Features) object with Longitude and Latitude as coordinates.
 #Set the CRS to EPSG:4326 (WGS 84) initially.
