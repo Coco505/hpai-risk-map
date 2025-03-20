@@ -1,3 +1,11 @@
+#Note: This script only need to be run once. Once data is downloaded, 
+#re-download is unnecessary and the data path can be found via ebirdst_data_dir()
+
+
+library(ebirdst)
+
+source(BC-common-species-filter.R)
+
 #test what files are available to download
 ebirdst_download_status("rudduc", dry_run = TRUE)
 # File list:
@@ -31,4 +39,5 @@ ebirdst_download_status("rudduc", dry_run = TRUE)
 # 2022/rudduc/weekly/rudduc_proportion-population_median_9km_2022.tif
 
 #download the weekly median abundance of all available common BC species at 3km resolution
+#modify parameters if alternative data is needed
 sapply(na.omit(BC_species_common$ebird_code), ebirdst_download_status, pattern = "_abundance_median_3km_")
