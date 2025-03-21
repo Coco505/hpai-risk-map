@@ -33,7 +33,8 @@ bc_boundary_vect <- vect(bc_boundary) #Convert to SpatVector
 #Crop each raster layer in the species stack to the BC boundary 
 abundance_rasters_bc <- rast(lapply(species_raster_stack, function(r) crop(r, ext(bc_boundary_vect))))
 
-#Reproject the cropped abundance rasters to EPSG:4326 (WGS 84) for global compatibility in mapping
+#Reproject the cropped abundance rasters to EPSG:4326 (WGS 84) for global compatibility in mapping,
+#resolution matches 3km bird abundance
 abundance_rasters_bc <- project(abundance_rasters_bc, "EPSG:4326", res=0.02664496)
 
 #Optionally plot the first two layers of the reprojected abundance rasters for visual inspection:
